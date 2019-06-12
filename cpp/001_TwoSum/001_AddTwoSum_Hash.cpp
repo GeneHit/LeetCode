@@ -1,3 +1,12 @@
+// Source : https://leetcode.com/problems/two-sum/submissions/
+// Author : Yongqiang Yu
+// Date   : 2019-06-12
+//********************************************************************************** 
+//* Design Solution class and implement a twoSum function.
+//* input:[2,7,11,15]
+//*       9
+//*output:[0,1]
+//**********************************************************************************/
 #include <iostream>
 #include <vector>
 #include <string>
